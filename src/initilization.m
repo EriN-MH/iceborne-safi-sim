@@ -1,0 +1,19 @@
+costCustomHealth=3;
+weaponDeco = [1;1;1;1];
+elementLocation=8;
+weaponAttack = 270;
+weaponElement=120;
+weaponCritical=5;
+realCritical=80;
+initSharp=60;
+razorLength=40;
+criticalBoost=3;
+offensiveGuard = 1;
+physicalMonster=60;
+Mvalue=95;
+elementalMonster=30;
+NumHit=5;
+elemCrit=1;
+elemCritTrue=0;
+givenPoints=[0;0;0;0;criticalBoost;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;...
+    0;0;0;0;0;2];
